@@ -8,7 +8,7 @@
 
 所有镜像文件均发布在 **Releases** 页面，请前往以下地址下载：
 
-👉 [Releases 页面](https://github.com/你的用户名/你的仓库名/releases)
+👉 [Releases 页面](https://github.com/lbdl0030/youdao-dictpen-rootfs/releases)
 
 ## 文件说明
 
